@@ -3,6 +3,11 @@
 This is a Streamlit app that generates cinematic video prompts based on user input and allows the user to modify the prompt and view the differences between the original and edited versions. 
 The app also simulates generating a video using the final prompt.
 
+🔗 **Live Demo**: [Prompt Optimization-Based Video Generation Agent System](https://videogenerate.streamlit.app/)  
+📁 **Source Code**: This repository  
+📸 **Author**: [Sanaullah](https://github.com/Rao-Sanaullah)
+Note: The User needs to add their Hugging Face API Key before the live demo in the app.py file
+
 ## Features
 1. **Describe Your Video Idea**: Enter a concept for a video.
 2. **Edit Prompt**: Edit the generated prompt.
