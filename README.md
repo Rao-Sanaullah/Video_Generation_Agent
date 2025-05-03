@@ -1,2 +1,1 @@
-# Video_Generation_Agent
-Prompt Optimization-Based Video Generation Agent System
+# Prompt Optimization-Based Video Generation Agent System
