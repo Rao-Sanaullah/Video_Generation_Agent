@@ -46,6 +46,14 @@ The app also simulates generating a video using the final prompt.
 
 You'll need a Hugging Face API key to use the prompt generation functionality. Replace the placeholder API key in the code with your actual API key.
 
+
+## 📸 Screenshot
+
+Here's an example of the app in action:
+
+![App Screenshot](screenshot.png)
+
+
 ## Contact
 For any help, please contact
 
