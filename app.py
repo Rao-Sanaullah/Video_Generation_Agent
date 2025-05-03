@@ -54,7 +54,7 @@ st.title("AI Video Prompt Generator")
 
 # Step 1: User Input
 st.header("1. Describe Your Video Idea")
-user_input = st.text_input("Enter your concept (e.g., 'a bright video of a cute puppy running around')")
+user_input = st.text_input("Enter your concept (e.g., 'A giant rabbit waking up in the morning.')")
 
 if user_input:
     # Step 2: Generate Prompt
